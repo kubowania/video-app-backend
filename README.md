@@ -10,7 +10,9 @@ Only once you have signed up to Sanity and created a blank project as per the vi
 
 Run the command above to install all the packages
 
+## `sanity start`
 
+That will start up the backend in your browser. Make sure to have the `sanity-cli` installed globally.
 
 Helpful links:
 
