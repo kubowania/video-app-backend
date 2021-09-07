@@ -1,8 +1,18 @@
-# Sanity Clean Content Studio
+# Video-app backend
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This project is built as part of a Structured Content tutorial.
 
-Now you can do the following things:
+To start this project, please sign up to [Sanity.io](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme) first. 
+
+Only once you have signed up to Sanity and created a blank project as per the video instructions, you may proceed. If you do not, the following instructions will not work.
+
+## `npm i` 
+
+Run the command above to install all the packages
+
+
+
+Helpful links:
 
 - [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
